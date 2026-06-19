@@ -51,4 +51,4 @@ while incorrect_guesses < max_attempts:
 # Game over if attempts exhausted
 if incorrect_guesses == max_attempts:
     print("\nGame Over!")
-    print("The word was:", word)
+    print("The word was:", word
